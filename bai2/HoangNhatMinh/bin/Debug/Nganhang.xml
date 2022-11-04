@@ -1,0 +1,23 @@
+<nganhang>
+  <taikhoan>
+    <sotaikhoan>tk1</sotaikhoan>
+    <tentaikhoan>Minh</tentaikhoan>
+    <diachi>Ha Noi</diachi>
+    <dienthoai>12121</dienthoai>
+    <sotien>1000000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>tk1</sotaikhoan>
+    <tentaikhoan>Minh</tentaikhoan>
+    <diachi>Ha Noi</diachi>
+    <dienthoai>12121</dienthoai>
+    <sotien>1000000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>tk2</sotaikhoan>
+    <tentaikhoan>Phuong</tentaikhoan>
+    <diachi>Ha noi</diachi>
+    <dienthoai>2121</dienthoai>
+    <sotien>2000</sotien>
+  </taikhoan>
+</nganhang>

@@ -1,0 +1,43 @@
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.AssemblyReference.cache
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.SuggestedBindingRedirects.cache
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\obj\Debug\Baiktra3.Form1.resources
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\obj\Debug\Baiktra3.Properties.Resources.resources
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.GenerateResource.cache
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.CoreCompileInputs.cache
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\bin\Debug\Baiktra3.exe.config
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\bin\Debug\Baiktra3.exe
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\bin\Debug\Baiktra3.pdb
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\obj\Debug\Baiktra3.exe
+D:\TrenLop\DOM_Json\Bai3\Baiktra3\obj\Debug\Baiktra3.pdb
+D:\TrenLop\Bai3\Baiktra3\bin\Debug\Baiktra3.exe.config
+D:\TrenLop\Bai3\Baiktra3\bin\Debug\Baiktra3.exe
+D:\TrenLop\Bai3\Baiktra3\bin\Debug\Baiktra3.pdb
+D:\TrenLop\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.AssemblyReference.cache
+D:\TrenLop\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.SuggestedBindingRedirects.cache
+D:\TrenLop\Bai3\Baiktra3\obj\Debug\Baiktra3.Form1.resources
+D:\TrenLop\Bai3\Baiktra3\obj\Debug\Baiktra3.Properties.Resources.resources
+D:\TrenLop\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.GenerateResource.cache
+D:\TrenLop\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.CoreCompileInputs.cache
+D:\TrenLop\Bai3\Baiktra3\obj\Debug\Baiktra3.exe
+D:\TrenLop\Bai3\Baiktra3\obj\Debug\Baiktra3.pdb
+D:\Zalo Received Files\Bai3\Baiktra3\bin\Debug\Baiktra3.exe.config
+D:\Zalo Received Files\Bai3\Baiktra3\bin\Debug\Baiktra3.exe
+D:\Zalo Received Files\Bai3\Baiktra3\bin\Debug\Baiktra3.pdb
+D:\Zalo Received Files\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.AssemblyReference.cache
+D:\Zalo Received Files\Bai3\Baiktra3\obj\Debug\Baiktra3.Form1.resources
+D:\Zalo Received Files\Bai3\Baiktra3\obj\Debug\Baiktra3.Properties.Resources.resources
+D:\Zalo Received Files\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.GenerateResource.cache
+D:\Zalo Received Files\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.CoreCompileInputs.cache
+D:\Zalo Received Files\Bai3\Baiktra3\obj\Debug\Baiktra3.exe
+D:\Zalo Received Files\Bai3\Baiktra3\obj\Debug\Baiktra3.pdb
+C:\Users\Acer\Downloads\Bai3\Baiktra3\bin\Debug\Baiktra3.exe.config
+C:\Users\Acer\Downloads\Bai3\Baiktra3\bin\Debug\Baiktra3.exe
+C:\Users\Acer\Downloads\Bai3\Baiktra3\bin\Debug\Baiktra3.pdb
+C:\Users\Acer\Downloads\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Downloads\Bai3\Baiktra3\obj\Debug\Baiktra3.Form1.resources
+C:\Users\Acer\Downloads\Bai3\Baiktra3\obj\Debug\Baiktra3.Properties.Resources.resources
+C:\Users\Acer\Downloads\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\Bai3\Baiktra3\obj\Debug\Baiktra3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\Bai3\Baiktra3\obj\Debug\Baiktra3.exe
+C:\Users\Acer\Downloads\Bai3\Baiktra3\obj\Debug\Baiktra3.pdb

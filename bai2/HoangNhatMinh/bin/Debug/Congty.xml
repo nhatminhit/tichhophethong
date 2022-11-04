@@ -1,0 +1,24 @@
+<congty>
+  <nhanvien manv="n01">
+    <hoten>Nguyen Thi Anh Duong</hoten>
+    <tuoi>30</tuoi>
+    <luong>1000</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Bac Tu Liem</huyen>
+      <tinh>Ha Noi</tinh>
+    </diachi>
+    <dienthoai>21212121212</dienthoai>
+  </nhanvien>
+  <nhanvien manv="n02">
+    <hoten>Minh</hoten>
+    <tuoi>21</tuoi>
+    <luong>2000</luong>
+    <diachi>
+      <xa>Minh Khai</xa>
+      <huyen>Bac Tu Liem</huyen>
+      <tinh>Ha Noi</tinh>
+    </diachi>
+    <dienthoai>12212</dienthoai>
+  </nhanvien>
+</congty>

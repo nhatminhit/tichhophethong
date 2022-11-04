@@ -1,0 +1,20 @@
+c:\users\it supporter\documents\visual studio 2017\Projects\HoangNhatMinh\HoangNhatMinh\bin\Debug\HoangNhatMinh.exe.config
+c:\users\it supporter\documents\visual studio 2017\Projects\HoangNhatMinh\HoangNhatMinh\bin\Debug\HoangNhatMinh.exe
+c:\users\it supporter\documents\visual studio 2017\Projects\HoangNhatMinh\HoangNhatMinh\bin\Debug\HoangNhatMinh.pdb
+c:\users\it supporter\documents\visual studio 2017\Projects\HoangNhatMinh\HoangNhatMinh\obj\Debug\HoangNhatMinh.csprojResolveAssemblyReference.cache
+c:\users\it supporter\documents\visual studio 2017\Projects\HoangNhatMinh\HoangNhatMinh\obj\Debug\HoangNhatMinh.Form1.resources
+c:\users\it supporter\documents\visual studio 2017\Projects\HoangNhatMinh\HoangNhatMinh\obj\Debug\HoangNhatMinh.Properties.Resources.resources
+c:\users\it supporter\documents\visual studio 2017\Projects\HoangNhatMinh\HoangNhatMinh\obj\Debug\HoangNhatMinh.csproj.GenerateResource.Cache
+c:\users\it supporter\documents\visual studio 2017\Projects\HoangNhatMinh\HoangNhatMinh\obj\Debug\HoangNhatMinh.exe
+c:\users\it supporter\documents\visual studio 2017\Projects\HoangNhatMinh\HoangNhatMinh\obj\Debug\HoangNhatMinh.pdb
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\bin\Debug\HoangNhatMinh.exe.config
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\bin\Debug\HoangNhatMinh.exe
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\bin\Debug\HoangNhatMinh.pdb
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\obj\Debug\HoangNhatMinh.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\obj\Debug\HoangNhatMinh.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\obj\Debug\HoangNhatMinh.Form1.resources
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\obj\Debug\HoangNhatMinh.Properties.Resources.resources
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\obj\Debug\HoangNhatMinh.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\obj\Debug\HoangNhatMinh.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\obj\Debug\HoangNhatMinh.exe
+C:\Users\Acer\Downloads\HoangNhatMinh2\HoangNhatMinh2\HoangNhatMinh\obj\Debug\HoangNhatMinh.pdb
