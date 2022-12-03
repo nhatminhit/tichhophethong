@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Chamcong"
+    targetNamespace="http://tempuri.org/Chamcong.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Chamcong.xsd"
+    xmlns:mstns="http://tempuri.org/Chamcong.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:simpleType name="catype">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="C1"></xs:enumeration>
+			<xs:enumeration value="C2"></xs:enumeration>
+			<xs:enumeration value="C3"></xs:enumeration>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="giotype">
+		<xs:restriction base="xs:string"></xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="matype">
+		<xs:restriction base="xs:ID">
+			<xs:pattern value="[a-zA-Z0-9]{5}"></xs:pattern>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="ngaytype">
+		<xs:restriction base="xs:string"></xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="bophantype">
+		<xs:restriction base="xs:string"></xs:restriction>
+	</xs:simpleType>
+	
+	
+	<xs:complexType name="nvtype">
+		<xs:sequence>
+			<xs:element name="Calamviec" type="catype"></xs:element>
+			<xs:element name="Giovao" type="giotype"></xs:element>
+			<xs:element name="Giora" type="giotype"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="Manv" type="matype" use="required"></xs:attribute>
+	</xs:complexType>
+
+	<xs:complexType name="lamviectype">
+		<xs:sequence>
+			<xs:element name="Nhanvien" type="mstns:nvtype" maxOccurs="unbounded"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="Ngay" type="ngaytype" use="required"></xs:attribute>
+	</xs:complexType>
+	<xs:complexType name="lamtype">
+		<xs:sequence>
+			<xs:element name="Ngaylamviec" type="lamviectype" minOccurs="1" maxOccurs="31"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="Bophan" type="bophantype"></xs:attribute>
+	</xs:complexType>
+	<xs:element name="Chamcong" type="lamtype"></xs:element>
+</xs:schema>

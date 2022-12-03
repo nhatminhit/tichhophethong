@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="Chamcong.xslt"?>
+<Chamcong Bophan="San xuat" >
+	<Ngaylamviec Ngay="18-11-2022">
+		<Nhanvien Manv="S0001">
+			<Calamviec>C1</Calamviec>
+			<Giovao>06:50</Giovao>
+			<Giora>15:00</Giora>
+		</Nhanvien>
+		<Nhanvien Manv="S0002">
+			<Calamviec>C2</Calamviec>
+			<Giovao>05:50</Giovao>
+			<Giora>15:00</Giora>
+		</Nhanvien>
+		<Nhanvien Manv="S0003">
+			<Calamviec>C3</Calamviec>
+			<Giovao>13:50</Giovao>
+			<Giora>22:00</Giora>
+		</Nhanvien>
+	</Ngaylamviec>
+	<Ngaylamviec Ngay="19-11-2022">
+		<Nhanvien Manv="S0004">
+			<Calamviec>C1</Calamviec>
+			<Giovao>05:50</Giovao>
+			<Giora>15:00</Giora>
+		</Nhanvien>
+		<Nhanvien Manv="S0005">
+			<Calamviec>C2</Calamviec>
+			<Giovao>05:50</Giovao>
+			<Giora>15:00</Giora>
+		</Nhanvien>
+		<Nhanvien Manv="S0006">
+			<Calamviec>C3</Calamviec>
+			<Giovao>13:50</Giovao>
+			<Giora>22:00</Giora>
+		</Nhanvien>
+	</Ngaylamviec>
+	
+</Chamcong>
