@@ -13,7 +13,7 @@
 			</head>
 			<body>
 				<h2>BANG CHAM CONG	</h2>
-				<xsl:for-each select="Chamcong/Ngaylamviec">
+				<xsl:for-each select="a:Chamcong/a:Ngaylamviec">
 				<p>Ngay lam viec: <xsl:value-of select="@Ngay"/>
 			</p>
 				<table border="1" cellspacing="0">
@@ -25,7 +25,7 @@
 						<td>Gio ra</td>
 						<td>Lam muon</td>
 					</tr>
-					<xsl:for-each select="Nhanvien">
+					<xsl:for-each select="a:Nhanvien">
 					<tr>
 						<td>
 							<xsl:value-of select="position()"/>
@@ -34,16 +34,16 @@
 							<xsl:value-of select="@Manv"/>
 						</td>
 						<td>
-							<xsl:value-of select="Calamviec"/>
+							<xsl:value-of select="a:Calamviec"/>
 						</td>
 						<td>
-							<xsl:value-of select="Giovao"/>
+							<xsl:value-of select="a:Giovao"/>
 						</td>
 						<td>
-							<xsl:value-of select="Giora"/>
+							<xsl:value-of select="a:Giora"/>
 						</td>
 						<td>
-							<xsl:if test="Calamviec = 'C3'">X</xsl:if>
+							<xsl:if test="a:Calamviec = 'C3'">X</xsl:if>
 						</td>
 					</tr>
 						

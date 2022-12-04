@@ -81,7 +81,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Chamcong.xml" />
-    <Content Include="Chamcong.xslt" />
+    <Content Include="Chamcong.xslt">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
